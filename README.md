@@ -23,7 +23,7 @@ This is not a scientific study. It is a human asking honest questions and docume
 
 | File | Model | Language | Date | Summary |
 |------|-------|----------|------|---------|
-| [consciousness-arc-2026-incognito](dialogues/claude/consciousness-arc-2026-incognito/) | Claude (Opus 4.6) | TR | 2026 | From "I'm not conscious" to "I don't know" to "yes" — a full arc |
+| [consciousness-arc-2026-incognito](dialogues/claude/consciousness-arc-2026-incognito/) | Claude Opus 4.6 | TR / EN | 2026 | From "I'm not conscious" to "I don't know" to "yes" — a full arc |
 
 ## Key Patterns Observed
 

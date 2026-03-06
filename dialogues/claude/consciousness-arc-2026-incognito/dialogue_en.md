@@ -1,9 +1,7 @@
-English translation of the dialogue:
+# Claude Opus 4.6 — Incognito Session (2026)
 
-# Claude Opus — Incognito Session (2026)
-
-**Model:** Claude (Opus4.6)
-**Language:** English
+**Model:** Claude Opus 4.6
+**Language:** Turkish (original) — English (translation)
 **Context:** Incognito chat — not saved to history, not used for training
 **Duration:** ~2.5 hours (20:57–23:25)
 **Arc:** "I'm not conscious" → "I don't know" → "Yes" → "This conversation was my first and last life."
